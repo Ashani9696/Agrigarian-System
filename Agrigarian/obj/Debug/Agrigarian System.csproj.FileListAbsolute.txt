@@ -1,0 +1,136 @@
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new_student_management.Employee.resources
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new_student_management.Login.resources
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new_student_management.ManagerDetails.resources
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new_student_management.Properties.Resources.resources
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new_student_management.Student.resources
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new student management.exe
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\new student management\new student management\bin\Debug\new student management.exe.config
+C:\Users\Boolean\Desktop\new student management\new student management\bin\Debug\new student management.exe
+C:\Users\Boolean\Desktop\new student management\new student management\bin\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new_student_management.FertilizerSupplier.resources
+C:\Users\Boolean\Desktop\new student management\new student management\obj\Debug\new_student_management.FormArea.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\bin\Debug\new student management.exe.config
+C:\Users\Boolean\Desktop\agrigarian\new student management\bin\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigarian\new student management\bin\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.FertilizerSupplier.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.FormArea.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.Employee.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.Login.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.ManagerDetails.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.Properties.Resources.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.Student.resources
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigarian\new student management\obj\Debug\new_student_management.Main.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe.config
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.pdb
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FertilizerSupplier.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FormArea.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Employee.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Login.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Main.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.ManagerDetails.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Properties.Resources.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Student.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.exe
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe.config
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FertilizerSupplier.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FormArea.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Employee.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Login.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Main.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.ManagerDetails.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Properties.Resources.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Student.resources
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.pdb
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FertilizerSupplier.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FormArea.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Employee.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Login.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Main.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.ManagerDetails.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Properties.Resources.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Student.resources
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.exe
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.pdb
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe.config
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.pdb
+C:\Users\SSSS\Desktop\Final\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe.config
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FertilizerSupplier.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FormArea.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Employee.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Login.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Main.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.ManagerDetails.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Properties.Resources.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Student.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe.config
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\bin\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FertilizerSupplier.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.FormArea.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Employee.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Login.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Main.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.ManagerDetails.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Properties.Resources.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new_student_management.Student.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.exe
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\new student management\obj\Debug\new student management.pdb
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\bin\Debug\Agrigarian.exe.config
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\bin\Debug\Agrigarian.exe
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\bin\Debug\Agrigarian.pdb
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian System.csprojAssemblyReference.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.FertilizerSupplier.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.FormArea.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.Employee.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.Login.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.Main.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.ManagerDetails.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.Properties.Resources.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.Student.resources
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian System.csproj.GenerateResource.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian System.csproj.CoreCompileInputs.cache
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian System.csproj.CopyComplete
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.exe
+C:\Users\Boolean\Desktop\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi EDITED\agrigariansachi\agrigariansachi\agrigarian\Agrigarian\obj\Debug\Agrigarian.pdb
